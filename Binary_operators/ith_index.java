@@ -2,7 +2,7 @@ package Binary_operators;
 import java.util.Scanner;
 public class ith_index {
     public static void main(String[] args) {
-        int num = 182;
+        int num = 182;  // 10110110 in bit form
         Scanner s = new Scanner(System.in);
         System.out.println("Enter the ith bit to find");
         int i = s.nextInt();
